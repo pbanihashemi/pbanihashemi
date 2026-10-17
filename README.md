@@ -1,4 +1,3 @@
 - Seyed Parsa Banihashemi
-- Django/React/Android Developer
-- Collaborating with @menew-be
+- Fullstack Web/Mobile Developer
 - email: parsa.banihashemi@gmail.com
